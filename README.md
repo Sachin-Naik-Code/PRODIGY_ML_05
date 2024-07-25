@@ -78,5 +78,5 @@ Example predictions are visualized using matplotlib.
 Example Output
 The script will provide output similar to:
 
-Accuracy: 70.00%
+Accuracy: 60.00%
 This indicates the percentage of correctly classified test images.
